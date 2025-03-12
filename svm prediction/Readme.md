@@ -1,7 +1,7 @@
 # Heart Disease Prediction System
 
 This project implements a comprehensive web-based system to predict the risk of heart disease using a machine learning model. 
-#### Try it out at [heart-disease-prediction.harshbanka.codes](https://heart-disease-prediction.harshbanka.codes/)
+
 ##### NOTE: Server start may take a minute or two.
 
 ### Features
