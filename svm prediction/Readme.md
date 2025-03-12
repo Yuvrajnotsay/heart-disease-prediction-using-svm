@@ -2,7 +2,7 @@
 
 This project implements a comprehensive web-based system to predict the risk of heart disease using a machine learning model. 
 
-##### NOTE: Server start may take a minute or two.
+
 
 ### Features
 
